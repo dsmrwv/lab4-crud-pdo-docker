@@ -1,1 +1,1 @@
-# lab4-crud-pdo-docker
+# Лабораторна №4: CRUD з PDO та Docker
